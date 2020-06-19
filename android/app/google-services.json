@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824218405316",
+    "firebase_url": "https://flutter-ad810.firebaseio.com",
+    "project_id": "flutter-ad810",
+    "storage_bucket": "flutter-ad810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824218405316:android:e7ea2934089c934b517c91",
+        "android_client_info": {
+          "package_name": "fr.imie.pokecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824218405316-fb7buthu2hs8o0hio9d6oghk2mv58u55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApb2Ci23A9GBWScN6ir0wviUAJKkj9hkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824218405316-fb7buthu2hs8o0hio9d6oghk2mv58u55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
